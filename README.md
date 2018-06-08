@@ -4,6 +4,8 @@ My files are large mainly because of the animations but this should be ok.
 
 Best way to read my project is to download the HTML file and open it in an internet browser like Google Crome, press F11 for full screen, and view the animations as you please.
 
+The paper_model.ipynb is the file that contains the project. The other notebook is the one that contains the Boids implemetation from Reynolds which is just interesting to compare the results to. I programmed that one first to get an idea of how I would program the project.
+
 Anim 1 is a test.
 
 
